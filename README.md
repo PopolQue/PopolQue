@@ -1,19 +1,11 @@
-## Hi there 👋
+## Hi there 👋 welcome to my GitHub page!
 
-<!--
-**PopolQue/PopolQue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C++, D, Go & Typescript
+- 👯 I’m looking to collaborate on all things audio 
+- 💬 Ask me about soundsystems & music production!
+- 📫 How to reach me: popolque@icloud.com
+- ⚡ Fun fact: never thought I'd be working with computers..
+  
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -24,3 +16,6 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/PopolQue/github-readme/main/output/contribs-light.svg"
   />
 </picture>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
