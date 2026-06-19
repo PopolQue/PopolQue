@@ -18,4 +18,13 @@
 </picture>
 
 <!--START_SECTION:waka-->
+
+```go
+From: 19 January 2026 - To: 18 June 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
