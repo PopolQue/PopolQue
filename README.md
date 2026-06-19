@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on all things audio 
 - 💬 Ask me about soundsystems & music production!
 - 📫 How to reach me: popolque@icloud.com
-- ⚡ Fun fact: never thought I'd be working with computers..
+- ⚡ Fun fact: I want to be a farmer
   
 <picture>
   <source
