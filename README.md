@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 19 January 2026 - To: 29 September 2026
+From: 19 January 2026 - To: 30 September 2026
 
-Total Time: 144 hrs 20 mins
+Total Time: 150 hrs 26 mins
 
-Markdown        35 hrs 9 mins         >>>>>>-------------------   23.24 %
-TypeScript      28 hrs 14 mins        >>>>>--------------------   18.67 %
-Go              18 hrs 3 mins         >>>----------------------   11.93 %
-C++             7 hrs 36 mins         >------------------------   05.03 %
-JavaScript      7 hrs 34 mins         >------------------------   05.00 %
-Other           6 hrs 56 mins         >------------------------   04.58 %
+Markdown        35 hrs 47 mins        >>>>>>-------------------   22.74 %
+TypeScript      28 hrs 14 mins        >>>>---------------------   17.95 %
+Go              18 hrs 3 mins         >>>----------------------   11.47 %
+JavaScript      7 hrs 58 mins         >------------------------   05.07 %
+C++             7 hrs 56 mins         >------------------------   05.04 %
+Other           6 hrs 56 mins         >------------------------   04.41 %
 ```
 
 <!--END_SECTION:waka-->
